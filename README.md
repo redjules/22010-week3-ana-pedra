@@ -7,3 +7,5 @@ Este challenge en parejas consiste en maquetar en HTML y CSS (nada de JS) la web
 Al finalizar la maquetación, hay que maquetar el menú desplegable.
 
 Se utilizará SASS para los estilos.
+
+FIGMA
